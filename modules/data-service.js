@@ -71,9 +71,6 @@ module.exports = function(connectionString){
                 }).catch(err=>{
                     reject(err);
                 });
-
-
-
             });
         },
 
